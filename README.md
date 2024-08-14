@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-My first repository on GitHub.
+STOPWATCH MADE USING HTML, CSS & JAVASCRIPT.
